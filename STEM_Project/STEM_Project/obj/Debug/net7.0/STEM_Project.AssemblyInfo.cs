@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STEM_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9e9675cc2cb4c2af38a9620434fb6a92788b0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bdf763b7a9d6b455efb01310ae4415fd5e6a25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("STEM_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STEM_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

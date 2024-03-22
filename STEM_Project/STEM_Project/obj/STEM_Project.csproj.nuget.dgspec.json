@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\STEM Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj": {}
+    "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj": {}
   },
   "projects": {
-    "E:\\STEM Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj": {
+    "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\STEM Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj",
+        "projectUniqueName": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj",
         "projectName": "STEM_Project",
-        "projectPath": "E:\\STEM Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj",
+        "projectPath": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\STEM_Project.csproj",
         "packagesPath": "C:\\Users\\solim\\.nuget\\packages\\",
-        "outputPath": "E:\\STEM Project\\STEM_Project\\STEM_Project\\obj\\",
+        "outputPath": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\solim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,36 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

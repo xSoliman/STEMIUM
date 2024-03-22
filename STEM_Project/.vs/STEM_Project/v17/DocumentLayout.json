@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\STEM Project\\STEM_Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\STEM Project\\STEM-Project\\STEM_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|e:\\stem project\\stem-project\\stem_project\\stem_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|solutionrelative:stem_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|e:\\stem project\\stem-project\\stem_project\\stem_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|solutionrelative:stem_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|e:\\stem project\\stem-project\\stem_project\\stem_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{584768E9-BED8-4181-AC3A-90FDC5AC195E}|STEM_Project\\STEM_Project.csproj|solutionrelative:stem_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "STEM_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "STEM_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAANMBAAAAAAAAAAAAAN0BAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T05:22:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "STEM_Project\\appsettings.json",
+              "ToolTip": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\appsettings.json",
+              "RelativeToolTip": "STEM_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T05:19:06.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "STEM_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "STEM_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T05:06:11.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

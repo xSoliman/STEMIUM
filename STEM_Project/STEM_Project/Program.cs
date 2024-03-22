@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using STEM_Project.Models;
+
 namespace STEM_Project
 {
     public class Program
@@ -8,7 +11,7 @@ namespace STEM_Project
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<Stem1Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
