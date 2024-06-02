@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Contents";
+}
+@model Info
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Level @Model.level - @Model.subject - Chapters</title>
+    <style>
+
+        #info {
+            margin-top: 40px;
+            margin-left: 480px;
+            margin-bottom: 20px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="info">  <p class="section-title px-5"><span class="px-3"> @Model.subject - Level @Model.level</span></p></div>
+    <div class="text-center pb-2">
+        <h1 class="mb-4">Chapters</h1>
+    </div>
+    <!-- Class Start -->
+    <div class="container-fluid pt-5">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="img/class-1.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Chapter One</h4>
+                        </div>
+                        <a asp-controller="Subjects" asp-action="Lessons" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="1" class="btn btn-primary px-4 mx-auto mb-4">Explore Chapter</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="img/class-2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Chapter Two</h4>
+                        </div>
+                        <a asp-controller="Subjects" asp-action="Lessons" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="2" class="btn btn-primary px-4 mx-auto mb-4">Explore Chapter</a>
+                    </div>
+                </div>
+             
+            </div>
+        </div>
+    </div>
+    <!-- Class End -->
+
+</body>
+</html>

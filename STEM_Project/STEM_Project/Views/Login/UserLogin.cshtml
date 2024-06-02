@@ -1,0 +1,80 @@
+﻿@model STEM_Project.ViewModels.LoginRequest
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - STEMIUM</title>
+    <style>
+        #register-form {
+            padding: 20px;
+        }
+
+        .type {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .card-body input {
+            margin-bottom: 20px;
+            margin-left: 30px;
+        }
+
+        label {
+            position: relative;
+            left: 35px;
+            top: 5px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h5 class="card-title text-center">Login</h5>
+                        <h6 class="text-danger" style="margin-left:120px;margin-bottom:-30px;">@TempData["Wrong"]</h6>
+
+                        <form id="register-form" method="post" asp-action="UserLogin" asp-controller="Login" enctype="multipart/form-data">
+                            <div class="row g-3">
+                                <div class="col-md-10">
+                                    <label for="Email">Email</label>
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="Email"  asp-for="@Model.Email" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <label for="Password">Password</label>
+                                    <div class="form-floating">
+                                        <input type="password" class="form-control" id="Password"  asp-for="@Model.Password" required minlength="8"> 
+                                    </div>
+                                </div>
+                                <input class="btn btn-primary py-2 px-4 mt-1" type="submit" style="margin-left:160px;" value="Login" />
+                            </div>
+                        </form>
+
+                        <div class="col-md-11">
+                            <div class="form-floating" style="margin-left:140px;margin-top:-30px;">
+                                <span style="margin-left:-27px">Don't have an account? </span>
+                                <br>
+                                <a asp-controller="SignUp" asp-action="RegisterStudent">Create Account</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+

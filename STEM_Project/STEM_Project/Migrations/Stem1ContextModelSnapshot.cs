@@ -17,7 +17,7 @@ namespace STEM_Project.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.17")
+                .HasAnnotation("ProductVersion", "7.0.14")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -25,7 +25,10 @@ namespace STEM_Project.Migrations
             modelBuilder.Entity("STEM_Project.Models.Feedback", b =>
                 {
                     b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("FeedbackContent")
                         .HasColumnType("nvarchar(max)")
@@ -41,6 +44,9 @@ namespace STEM_Project.Migrations
                         .HasColumnType("int")
                         .HasColumnName("User_ID");
 
+                    b.Property<bool>("Visible")
+                        .HasColumnType("bit");
+
                     b.HasKey("Id")
                         .HasName("PK__Feedback__3214EC079C8FCA39");
 
@@ -49,10 +55,51 @@ namespace STEM_Project.Migrations
                     b.ToTable("Feedback");
                 });
 
+            modelBuilder.Entity("STEM_Project.Models.Services", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Chapter")
+                        .HasColumnType("int");
+
+                    b.Property<string>("FilePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Grade")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Lesson")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ServiceName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ServiceType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Subject")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Services");
+                });
+
             modelBuilder.Entity("STEM_Project.Models.User", b =>
                 {
                     b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int?>("Age")
                         .HasColumnType("int");
@@ -62,10 +109,6 @@ namespace STEM_Project.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Department")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("Division")
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -79,6 +122,10 @@ namespace STEM_Project.Migrations
                         .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("Government")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Major")
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -111,18 +158,6 @@ namespace STEM_Project.Migrations
                         .HasFilter("[Email] IS NOT NULL");
 
                     b.ToTable("Users");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 0,
-                            Age = 21,
-                            EducationalLevel = "University",
-                            Email = "admin@admin.com",
-                            Name = "Admin",
-                            Password = "admin",
-                            Type = "Admin"
-                        });
                 });
 
             modelBuilder.Entity("STEM_Project.Models.Feedback", b =>

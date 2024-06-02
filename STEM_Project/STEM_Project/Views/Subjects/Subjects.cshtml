@@ -1,0 +1,150 @@
+﻿@{
+    ViewBag.Title = "Subjects";
+}
+@model Info
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Level @Model.level - Subjects </title>
+
+</head>
+
+<body>
+    @section content {
+    <!-- Class Start -->
+    <div class="container-fluid pt-5">
+        <div class="container">
+            <div class="text-center pb-2">
+                <p class="section-title px-5"><span class="px-2">Level @Model.level</span></p>
+                <h1 class="mb-4">Subjects</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Arabic.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Arabic</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Arabic"  class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/English.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">English</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="English" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/French.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">French</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="French" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Germany.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Germany</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Germany" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Maths.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Maths</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Math" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                        </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Biology.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Biology</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Biology"  class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                        </div>
+                </div>
+
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Chemistry2.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Chemistry</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Chemistry"  class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                        </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="~/img/Physics.jpg" alt="" width="200px" height="350px">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Physics</h4>
+                        </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Physics" asp-route-param1="" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                    </div>
+                </div>
+                    @if (@Model.level == 1)
+                    {
+                        <div class="col-lg-4 mb-5">
+                            <div class="card border-0 bg-light shadow-sm pb-2">
+                                <img class="card-img-top mb-2" src="~/img/History.jpg" alt="" width="200px" height="350px">
+                                <div class="card-body text-center">
+                                    <h4 class="card-title">History</h4>
+                                </div>
+                                <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="History" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-5">
+                            <div class="card border-0 bg-light shadow-sm pb-2">
+                                <img class="card-img-top mb-2" src="~/img/Geography.jpg" alt="" width="200px" height="350px">
+                                <div class="card-body text-center">
+                                    <h4 class="card-title">Geography</h4>
+                                </div>
+                                <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Geography" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-5">
+                            <div class="card border-0 bg-light shadow-sm pb-2">
+                            <img class="card-img-top mb-2" src="~/img/Logic.jpg" alt="" width="200px" height="350px">
+                            <div class="card-body text-center">
+                                <h4 class="card-title">Philosophy and logic</h4>
+                            </div>
+                            <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Philosophy and logic" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                        </div>
+                
+             
+                </div>
+                }
+                    @if (Model.level == 3)
+                    {
+                        <div class="col-lg-4 mb-5">
+                            <div class="card border-0 bg-light shadow-sm pb-2">
+                                <img class="card-img-top mb-2" src="~/img/Geology.jpg" alt="" width="200px" height="350px">
+                                <div class="card-body text-center">
+                                    <h4 class="card-title">Geology</h4>
+                                </div>
+                                <a asp-controller="Subjects" asp-action="Chapters" asp-route-lvl="@Model.level" asp-route-sub="Geology" class="btn btn-primary px-4 mx-auto mb-4">Explore</a>
+                            </div>
+                        </div>
+                    }
+
+
+
+            </div>
+        </div>
+
+    </div>
+    }
+</body>
+</html>

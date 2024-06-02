@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My profile - STEMIUM</title>
+    <style>
+        #register-form {
+            width: 100%;
+            text-align: ceneter;
+        }
+
+        table > td {
+            margin-bottom: 10px;
+        }
+
+        .type {
+            width: 100%;
+            gap: 10px;
+        }
+
+        .card-body input {
+            margin-bottom: 20px;
+            margin-left: 0px; /* Adjusted to remove the left margin */
+        }
+
+        .user-info {
+            margin-bottom: 20px;
+        }
+
+        .info-row {
+            margin-bottom: 10px;
+            display: flex; /* Change to flex container */
+            align-items: center;
+        }
+
+        .label {
+            width: 150px;
+            font-weight: bold;
+            margin-right: 10px; /* Add margin to create space between label and value */
+        }
+
+        .value {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Profile</h5>
+                        <h1 class="card-title text-center">@Model.Name</h1>
+
+                        <div id="register-form" class="user-info">
+                            <div class="info-row">
+                                <div class="label">Name:</div>
+                                <div class="value">@Model.Name</div>
+                            </div>
+                            <div class="info-row">
+                                <div class="label">Email:</div>
+                                <div class="value">@Model.Email</div>
+                            </div>
+                            @if (Model.Type != "admin")
+                            {
+
+                                <div class="info-row">
+                                    <div class="label">Age:</div>
+                                    <div class="value">@Model.Age</div>
+                                </div>
+                                <div class="info-row">
+                                    <div class="label">Government:</div>
+                                    <div class="value">@Model.Government</div>
+                                </div>
+
+                                @if (@Model.Type == "student")
+                                {
+                                    <div class="info-row">
+                                        <div class="label">Educational Level:</div>
+                                        <div class="value">@Model.EducationalLevel</div>
+                                    </div>
+                                    @if (Model.EducationalLevel == "Undergraduate" || Model.EducationalLevel == "Postgraduate")
+                                    {
+                                        <div class="info-row">
+                                            <div class="label">Government:</div>
+                                            <div class="value">@Model.College</div>
+                                        </div>
+                                        <div class="info-row">
+                                            <div class="label">Department:</div>
+                                            <div class="value">@Model.Department</div>
+                                        </div>
+                                        <div class="info-row">
+                                            <div class="label">Major:</div>
+                                            <div class="value">@Model.Major</div>
+                                        </div>
+                                    }
+                                }
+                                @if (@Model.Type == "teacher")
+                                {
+                                    <div class="info-row">
+                                        <div class="label">Specialization / Subject:</div>
+                                        <div class="value">@Model.SpecializationSubject</div>
+                                    </div>
+                                    <div class="info-row">
+                                        <div class="label">Workplace:</div>
+                                        <div class="value">@Model.Workplace</div>
+                                    </div>
+                                }
+                            }
+                        </div>
+                        <a class="btn btn-primary py-3 px-5 mt-2" type="submit" asp-controller="Profile" asp-action="EditProfile" style="margin-left:170px;margin-bottom:10px;">Edit Profile</a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

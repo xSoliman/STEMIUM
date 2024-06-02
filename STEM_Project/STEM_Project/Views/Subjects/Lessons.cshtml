@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Lessons";
+}
+<!DOCTYPE html>
+<html lang="en">
+@model Info
+<head>
+    <meta charset="utf-8">
+    <title>Level @Model.level - @Model.subject - Lessons </title>
+    <style>
+
+        #info {
+            margin-top: 40px;
+            margin-left: 450px;
+            margin-bottom: 20px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="info">  <p class="section-title px-5"><span class="px-3"> @Model.subject - Level @Model.level - Chapter @Model.chapter</span></p></div>
+    <div class="text-center pb-2">
+        <h1 class="mb-4">Lessons</h1>
+    </div>
+    <div class="container-fluid pt-5">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="img/class-1.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Lesson One</h4>
+                        </div>
+                        <a asp-controller="Services" asp-action="Index" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="1" class="btn btn-primary px-4 mx-auto mb-4">Explore Lesson</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="img/class-2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Lesson Two</h4>
+                        </div>
+                        <a asp-controller="Services" asp-action="Index" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="2" class="btn btn-primary px-4 mx-auto mb-4">Explore Lesson</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="card border-0 bg-light shadow-sm pb-2">
+                        <img class="card-img-top mb-2" src="img/class-2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h4 class="card-title">Lesson Three</h4>
+                        </div>
+                        <a asp-controller="Services" asp-action="Index" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="3" class="btn btn-primary px-4 mx-auto mb-4">Explore Lesson</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Class End -->
+
+</body>
+</html>

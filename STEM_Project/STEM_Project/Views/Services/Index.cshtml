@@ -1,0 +1,123 @@
+﻿@using Microsoft.EntityFrameworkCore;
+
+@model Info
+@{
+    var role = Context.Session.GetString("Type");
+
+}
+<html>
+    <head>
+        <title>Services</title>
+        <style>
+        #info {
+            margin-top: 40px;
+            margin-left: 400px;
+            margin-bottom: 20px;
+        }
+
+        </style>
+    </head>
+    <body>
+
+    <div id="info">  <p class="section-title px-5"><span class="px-3"> @Model.subject - Level @Model.level - Chapter @Model.chapter - Lesson @Model.lesson</span></p></div>
+    <div class="text-center pb-2">
+        <h1 class="mb-4">Materials</h1>
+    </div>
+
+
+        <div class="container pb-3">
+            <div class="row">
+
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                    <i class="flaticon-030-crayons h1 font-weight-normal text-primary mb-3"></i>
+                    <div class="pl-4">
+                        <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Explanation" class="btn btn-primary px-4 mx-auto mb-4">Explanations</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                    <i class="flaticon-047-backpack h1 font-weight-normal text-primary mb-3"></i>
+                    <div class="pl-4">
+                        <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Parent Guide" class="btn btn-primary px-4 mx-auto mb-4">Parent Guide</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                    <i class="flaticon-025-sandwich h1 font-weight-normal text-primary mb-3"></i>
+                    <div class="pl-4">
+                        <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Questions & Inquries" class="btn btn-primary px-4 mx-auto mb-4">Questions & Inquries</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                    <i class="flaticon-022-drum h1 font-weight-normal text-primary mb-3"></i>
+                    <div class="pl-4">
+                        <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Resource" class="btn btn-primary px-4 mx-auto mb-4">Resources</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                    <i class="flaticon-047-backpack h1 font-weight-normal text-primary mb-3"></i>
+                    <div class="pl-4">
+                        <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Evaluation" class="btn btn-primary px-4 mx-auto mb-4">Evaluation</a>
+                    </div>
+                </div>
+            </div>
+
+            @if (role != "parent")
+            {
+                <div class="col-lg-4 col-md-6 pb-1">
+                    <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding:30px;">
+                        <i class="flaticon-050-fence h1 font-weight-normal text-primary mb-3"></i>
+                        <div class="pl-4">
+
+                            <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-srvc="Activity" class="btn btn-primary px-4 mx-auto mb-4">Activities</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 pb-1">
+                    <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                        <i class="flaticon-017-toy-car h1 font-weight-normal text-primary mb-3"></i>
+                        <div class="pl-4">
+                            <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Lesson Plan" class="btn btn-primary px-4 mx-auto mb-4">Lesson Plans</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 pb-1">
+                    <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                        <i class="flaticon-047-backpack h1 font-weight-normal text-primary mb-3"></i>
+                        <div class="pl-4">
+                            <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Teaching Strategy" class="btn btn-primary px-4 mx-auto mb-4">Teaching Strategies</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 pb-1">
+                    <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                        <i class="flaticon-047-backpack h1 font-weight-normal text-primary mb-3"></i>
+                        <div class="pl-4">
+                            <a asp-controller="Services" asp-action="ServiceDetails" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-ch="@Model.chapter" asp-route-lsn="@Model.lesson" asp-route-lvl="@Model.level" asp-route-sub="@Model.subject" asp-route-srvc="Worksheet" class="btn btn-primary px-4 mx-auto mb-4">Worksheets</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+            </div>
+        </div>
+    </div>
+
+    </body>
+</html>

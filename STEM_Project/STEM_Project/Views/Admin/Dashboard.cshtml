@@ -1,0 +1,59 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <style>
+
+
+        .main-container {
+            margin: 100px auto;
+            max-width: 600px;
+            padding: 30px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            color: #000000;
+        }
+
+  
+
+        .btn-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .btn2{
+            font-size: 18px;
+            margin: 10px;
+            padding: 15px 25px;
+            width: 180px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="welcome-message" style="padding-left:75px;">
+            <h3>Welcome to the Admin Dashboard!</h3>
+        </div>
+
+        <div class="btn-container">
+            <a asp-controller="Admin" asp-action="AdminResult" class="btn2 btn btn-primary">Admins</a>
+            <a asp-controller="Admin" asp-action="StudentResult" class="btn2 btn btn-primary">Students</a>
+            <a asp-controller="Admin" asp-action="TeacherResult" class="btn2 btn btn-primary">Teachers</a>
+            <a asp-controller="Admin" asp-action="ParentResult" class="btn2 btn btn-primary">Parents</a>
+            <a asp-controller="Admin" asp-action="Feedbacks" class="btn2 btn btn-primary">Feedbacks</a>
+
+        </div>
+    </div>
+</body>
+</html>

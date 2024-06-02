@@ -1,0 +1,1285 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\STEM_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\STEM_Project.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\0076bf56-7a54-419f-bc54-0082b7804974.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\0076bf56-7a54-419f-bc54-0082b7804974.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\016e7872-0727-42d2-830c-57d87322ed83.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\016e7872-0727-42d2-830c-57d87322ed83.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\02db4643-f3c1-4637-8032-b595a24c6616.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\02db4643-f3c1-4637-8032-b595a24c6616.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\07ccd21b-c82f-4dd5-b413-d7e4ded88691.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\07ccd21b-c82f-4dd5-b413-d7e4ded88691.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\0a25cdaf-58c9-40ed-b3c6-4fd23f3c4e6a.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\0a25cdaf-58c9-40ed-b3c6-4fd23f3c4e6a.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\0fb88632-a6cb-448e-9a06-5f2db2c92769.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\0fb88632-a6cb-448e-9a06-5f2db2c92769.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\14c88fb5-77c7-41ca-a419-a5204cbabaf9.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\14c88fb5-77c7-41ca-a419-a5204cbabaf9.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\1580f13f-99f9-417e-83bb-a2dd223007f3.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\1580f13f-99f9-417e-83bb-a2dd223007f3.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\1608c511-fb0e-4b2f-8eef-b3a5270616f7.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\1608c511-fb0e-4b2f-8eef-b3a5270616f7.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\16915c91-32ef-4941-b2bb-e5d632a8edc7.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\16915c91-32ef-4941-b2bb-e5d632a8edc7.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\16fdbadd-c772-40ac-8fda-5a753046a0b2.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\16fdbadd-c772-40ac-8fda-5a753046a0b2.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\184a7c66-5e09-4ab8-bd3f-5af78c8630f3.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\184a7c66-5e09-4ab8-bd3f-5af78c8630f3.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\19a4470a-f272-46c4-9034-7706277ca896.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\19a4470a-f272-46c4-9034-7706277ca896.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\1ce72ec3-9f1b-4dda-98cf-d1e9a8708d42.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\1ce72ec3-9f1b-4dda-98cf-d1e9a8708d42.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\2341a929-b47c-4ed2-8cf2-eb0cb4632eb4.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\2341a929-b47c-4ed2-8cf2-eb0cb4632eb4.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\2b3194f7-aa54-4690-a321-408263c41678.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\2b3194f7-aa54-4690-a321-408263c41678.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\2b5ce6bc-087d-49c5-9ed3-28ac3cd1efe1.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\2b5ce6bc-087d-49c5-9ed3-28ac3cd1efe1.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\2de68493-075a-41b8-af15-12da7beffdba.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\2de68493-075a-41b8-af15-12da7beffdba.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\35a70b1b-566d-4a63-be8f-c270ad168d5e.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\35a70b1b-566d-4a63-be8f-c270ad168d5e.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\35e0a83b-7e11-4f5d-bb5c-8c8229b2d2bc.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\35e0a83b-7e11-4f5d-bb5c-8c8229b2d2bc.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\3bf172ab-7343-4214-b19f-5c8f455eb79a.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\3bf172ab-7343-4214-b19f-5c8f455eb79a.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\3d1eb4d9-3d20-4e3b-8ec9-786ce7853873.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\3d1eb4d9-3d20-4e3b-8ec9-786ce7853873.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\3eec9a09-b096-451d-9999-5d46f0deaaee.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\3eec9a09-b096-451d-9999-5d46f0deaaee.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\3fdbd696-f500-494b-8b1c-788c12454c68.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\3fdbd696-f500-494b-8b1c-788c12454c68.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\42f80002-4af7-4520-9df1-3f161aa5e562.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\42f80002-4af7-4520-9df1-3f161aa5e562.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\44bf7ad3-5da9-4d14-b57b-eab5d36f5658.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\44bf7ad3-5da9-4d14-b57b-eab5d36f5658.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\45ccec34-5d93-4e9e-92aa-f5141964711f.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\45ccec34-5d93-4e9e-92aa-f5141964711f.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\563835b8-6ef0-4bb3-b20c-48f25004ebd1.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\563835b8-6ef0-4bb3-b20c-48f25004ebd1.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\5b84d770-5fbe-42dd-a3e0-c01b957723ca.PDF",
+      "PackagePath": "staticwebassets\\PDFs\\5b84d770-5fbe-42dd-a3e0-c01b957723ca.PDF"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\5b87d09b-ce3e-4f11-b417-b808a3c14be3.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\5b87d09b-ce3e-4f11-b417-b808a3c14be3.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\5be2c499-2b36-466c-8511-47621da93a54.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\5be2c499-2b36-466c-8511-47621da93a54.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\5c2d005b-2c41-4eed-b34e-ffc22f800fdf.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\5c2d005b-2c41-4eed-b34e-ffc22f800fdf.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\61234f1b-54f9-4bcd-aaee-5e4ba1215ee2.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\61234f1b-54f9-4bcd-aaee-5e4ba1215ee2.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\643dccd4-7767-439d-964f-df4dd5335b6a.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\643dccd4-7767-439d-964f-df4dd5335b6a.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\64db78bb-1ed9-4ead-a17e-7750265e1dc5.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\64db78bb-1ed9-4ead-a17e-7750265e1dc5.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\6730ef09-db7a-48d1-a170-163ef6278fe8.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\6730ef09-db7a-48d1-a170-163ef6278fe8.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\70159ad3-d494-4a0b-b864-97cf5d3bc609.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\70159ad3-d494-4a0b-b864-97cf5d3bc609.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\7048bc30-0db9-4fbe-8dc6-55d242267b18.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\7048bc30-0db9-4fbe-8dc6-55d242267b18.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\782a0fd3-b3b2-4096-860f-51af33c378a1.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\782a0fd3-b3b2-4096-860f-51af33c378a1.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\792735bf-cd1c-42d3-b299-ebeb82b0e1c6.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\792735bf-cd1c-42d3-b299-ebeb82b0e1c6.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\796fa2c1-12a2-44cc-b9df-99d7f5ef655f.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\796fa2c1-12a2-44cc-b9df-99d7f5ef655f.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\7c47791c-dfbc-4fb5-9690-2f5e405b5066.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\7c47791c-dfbc-4fb5-9690-2f5e405b5066.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\7c763a21-42a3-4124-a484-89248ce063f4.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\7c763a21-42a3-4124-a484-89248ce063f4.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\81e8fdd6-bbc7-4179-80dc-b92238278b98.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\81e8fdd6-bbc7-4179-80dc-b92238278b98.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\820bedeb-b5e0-46b6-921b-f07fd50e63c5.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\820bedeb-b5e0-46b6-921b-f07fd50e63c5.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\83640bc3-3cbd-4a63-a0ba-e8842157ae83.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\83640bc3-3cbd-4a63-a0ba-e8842157ae83.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\84a4b52b-83a0-4e2f-b654-5403523cff03.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\84a4b52b-83a0-4e2f-b654-5403523cff03.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\88d6ea73-3633-43c1-ba51-15146c410895.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\88d6ea73-3633-43c1-ba51-15146c410895.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\89a749a8-3847-49e8-a80d-514b8d1abde4.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\89a749a8-3847-49e8-a80d-514b8d1abde4.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\89c1e246-bf26-409b-9a8f-e673a48eb6f6.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\89c1e246-bf26-409b-9a8f-e673a48eb6f6.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\8a1a2a7d-e652-4c80-8388-f4f7a2693eaf.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\8a1a2a7d-e652-4c80-8388-f4f7a2693eaf.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\8a3edbfb-dfa9-4ced-97bd-33af7695b3ce.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\8a3edbfb-dfa9-4ced-97bd-33af7695b3ce.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\91db82a7-3798-4f12-910d-48d022972599.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\91db82a7-3798-4f12-910d-48d022972599.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\943daa84-5575-446d-8777-5e97a596c487.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\943daa84-5575-446d-8777-5e97a596c487.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\94d00e14-6ec5-4416-a690-c148121f468d.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\94d00e14-6ec5-4416-a690-c148121f468d.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\95d96b18-c265-4f7b-a32f-cc264ce4c96e.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\95d96b18-c265-4f7b-a32f-cc264ce4c96e.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\99378a87-a994-4e5a-a0c8-b1e44adc8813.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\99378a87-a994-4e5a-a0c8-b1e44adc8813.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\9c33efb3-2200-463f-80b1-5eb094f8c5b2.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\9c33efb3-2200-463f-80b1-5eb094f8c5b2.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\9cf39134-fc76-42e2-82ef-f537ab92bc09.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\9cf39134-fc76-42e2-82ef-f537ab92bc09.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\a3ede876-2cea-40b2-9459-ce79aa950a52.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\a3ede876-2cea-40b2-9459-ce79aa950a52.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\a7172405-3ea5-40d9-ad70-83f849db97b0.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\a7172405-3ea5-40d9-ad70-83f849db97b0.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ac8cd638-8032-4304-a210-e08d102c5fcd.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ac8cd638-8032-4304-a210-e08d102c5fcd.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ad1f538c-5042-4eab-9bc9-e819bc8b5e20.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ad1f538c-5042-4eab-9bc9-e819bc8b5e20.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ad215f94-63ec-4aec-affd-d347f3082d83.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ad215f94-63ec-4aec-affd-d347f3082d83.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ad312342-c854-4270-992f-c8ce9358a30b.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ad312342-c854-4270-992f-c8ce9358a30b.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\af016e39-ab2c-4923-83b4-c00c376a8de7.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\af016e39-ab2c-4923-83b4-c00c376a8de7.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\b0679099-8104-4eda-b1a4-2ce70e1c6519.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\b0679099-8104-4eda-b1a4-2ce70e1c6519.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\b4c8967a-943c-448f-b0a0-9ca9c3cd7f4f.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\b4c8967a-943c-448f-b0a0-9ca9c3cd7f4f.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\b6197422-2b8b-4839-aae9-7621a9c928c8.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\b6197422-2b8b-4839-aae9-7621a9c928c8.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\b9c0e6a0-add3-46a3-858f-2087af05e455.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\b9c0e6a0-add3-46a3-858f-2087af05e455.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\bc356169-b11e-45e9-893c-c1abd4363271.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\bc356169-b11e-45e9-893c-c1abd4363271.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\bd6dc056-15c3-4f9e-a61d-fe38e9ef9c00.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\bd6dc056-15c3-4f9e-a61d-fe38e9ef9c00.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\bfc5e518-294a-470b-8640-5849034ebf84.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\bfc5e518-294a-470b-8640-5849034ebf84.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\c26e5bd4-c42f-40a2-870f-7e6527837258.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\c26e5bd4-c42f-40a2-870f-7e6527837258.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\c8583f70-1436-465c-85a6-1e2d6de2fbc4.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\c8583f70-1436-465c-85a6-1e2d6de2fbc4.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\cca1f871-d501-4ee3-8d12-2101d45933c9.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\cca1f871-d501-4ee3-8d12-2101d45933c9.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\d7a07773-af0e-4b59-8a96-1b65b7b81061.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\d7a07773-af0e-4b59-8a96-1b65b7b81061.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\d8717562-bf67-4999-bd02-ae9d45cab74c.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\d8717562-bf67-4999-bd02-ae9d45cab74c.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\d935eec5-a7dc-4264-b6a9-8918e0073ba3.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\d935eec5-a7dc-4264-b6a9-8918e0073ba3.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\da986a67-9378-458f-aa9e-454a234a72cd.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\da986a67-9378-458f-aa9e-454a234a72cd.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\dab79ea3-4dfb-473d-b07b-936e2aae1117.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\dab79ea3-4dfb-473d-b07b-936e2aae1117.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\dc6786c0-eabb-44a7-8b35-2b6253ce3a65.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\dc6786c0-eabb-44a7-8b35-2b6253ce3a65.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\e1516477-1116-48fc-a4cb-a8976839d20e.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\e1516477-1116-48fc-a4cb-a8976839d20e.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\e25bff3b-0604-413a-b416-52efa9a06e68.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\e25bff3b-0604-413a-b416-52efa9a06e68.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ed688b6d-22c6-4b22-8cf7-42f43f89ad7c.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ed688b6d-22c6-4b22-8cf7-42f43f89ad7c.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\ef5b245c-3744-421f-bf74-161d5482719b.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\ef5b245c-3744-421f-bf74-161d5482719b.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\f1a7989e-56cc-4ba7-8137-3c639f66fcef.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\f1a7989e-56cc-4ba7-8137-3c639f66fcef.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\f477174d-98c7-4b62-942c-e65a72fe90b9.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\f477174d-98c7-4b62-942c-e65a72fe90b9.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\faa0cc77-0aec-4355-9628-a8354552fe6b.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\faa0cc77-0aec-4355-9628-a8354552fe6b.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\fb022200-c813-435d-93c2-b0195679d078.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\fb022200-c813-435d-93c2-b0195679d078.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\PDFs\\fd94eeb5-a7c0-49c0-af03-f1083bede0d3.pdf",
+      "PackagePath": "staticwebassets\\PDFs\\fd94eeb5-a7c0-49c0-af03-f1083bede0d3.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\AboutUs.jpg",
+      "PackagePath": "staticwebassets\\img\\AboutUs.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Arabic.jpg",
+      "PackagePath": "staticwebassets\\img\\Arabic.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Arwa.jpg",
+      "PackagePath": "staticwebassets\\img\\Arwa.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Biology.jpg",
+      "PackagePath": "staticwebassets\\img\\Biology.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Chemistry.jpg",
+      "PackagePath": "staticwebassets\\img\\Chemistry.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Chemistry1.jpg",
+      "PackagePath": "staticwebassets\\img\\Chemistry1.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Chemistry2.jpg",
+      "PackagePath": "staticwebassets\\img\\Chemistry2.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Demiana2.jpg",
+      "PackagePath": "staticwebassets\\img\\Demiana2.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\English.jpg",
+      "PackagePath": "staticwebassets\\img\\English.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\French.jpg",
+      "PackagePath": "staticwebassets\\img\\French.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Geography.jpg",
+      "PackagePath": "staticwebassets\\img\\Geography.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Geology.jpg",
+      "PackagePath": "staticwebassets\\img\\Geology.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Germany.jpg",
+      "PackagePath": "staticwebassets\\img\\Germany.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\History.jpg",
+      "PackagePath": "staticwebassets\\img\\History.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Logic.jpg",
+      "PackagePath": "staticwebassets\\img\\Logic.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Mario.jpg",
+      "PackagePath": "staticwebassets\\img\\Mario.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Math.jpg",
+      "PackagePath": "staticwebassets\\img\\Math.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Maths.jpg",
+      "PackagePath": "staticwebassets\\img\\Maths.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Omar.jpg",
+      "PackagePath": "staticwebassets\\img\\Omar.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Physics.jpg",
+      "PackagePath": "staticwebassets\\img\\Physics.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Sahar.jpg",
+      "PackagePath": "staticwebassets\\img\\Sahar.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Sandy.jpg",
+      "PackagePath": "staticwebassets\\img\\Sandy.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\StemLand1.jpg",
+      "PackagePath": "staticwebassets\\img\\StemLand1.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\Yasmeen2.jpg",
+      "PackagePath": "staticwebassets\\img\\Yasmeen2.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\class-1.jpg",
+      "PackagePath": "staticwebassets\\img\\class-1.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\landing1.jpg",
+      "PackagePath": "staticwebassets\\img\\landing1.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\landing3.jpg",
+      "PackagePath": "staticwebassets\\img\\landing3.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\stem2.jpg",
+      "PackagePath": "staticwebassets\\img\\stem2.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\stem3.jpg",
+      "PackagePath": "staticwebassets\\img\\stem3.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\stem4.jpg",
+      "PackagePath": "staticwebassets\\img\\stem4.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\img\\stem6.jpg",
+      "PackagePath": "staticwebassets\\img\\stem6.jpg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\STEM Project\\STEM-Project\\STEM_Project\\STEM_Project\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.STEM_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.STEM_Project.props",
+      "PackagePath": "build\\STEM_Project.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.STEM_Project.props",
+      "PackagePath": "buildMultiTargeting\\STEM_Project.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.STEM_Project.props",
+      "PackagePath": "buildTransitive\\STEM_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

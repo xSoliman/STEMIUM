@@ -1,0 +1,160 @@
+﻿@model STEM_Project.Models.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit my profile</title>
+    <style>
+        #register-form {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-left: 30px;
+        }
+
+        .type {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .card-body input {
+            margin-bottom: 20px;
+            margin-left: 50px;
+        }
+
+        label {
+            position: relative;
+            left: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Update Profile</h5>
+                        <h1 class="card-title text-center">@Model.Name</h1>
+                        <form id="register-form" method="post" asp-action="EditProfile" asp-controller="Profile" enctype="multipart/form-data">
+                            <div class="row g-3">
+
+                                <div class="col-md-9">
+                                    <div class="form-floating">
+                                        <label for="Name">Name</label>
+                                        <input type="text" class="form-control" id="Name" placeholder="Name" asp-for="@Model.Name"  />
+                                        <span asp-validation-for="Name" class="test-danger"></span>
+                                    </div>
+                                </div>
+
+
+                                <div class="col-md-9">
+                                    <div class="form-floating" id="Email">
+                                        <label for="Email">Email</label>
+                                        <input type="Email" class="form-control" id="Email" placeholder="Email" asp-for="@Model.Email" />
+                                        <span asp-validation-for="Email" style="margin-left:50px;position:relative;bottom:20px;" class=" text-danger"></span>
+                                    </div>
+                                </div>
+                                @if (Model.Type != "admin")
+                                {
+
+                                    <div class="col-md-9">
+                                        <div class="form-floating" id="Age">
+                                            <label for="Age">Age</label>
+                                            <input type="number" class="form-control" id="Age" placeholder="Age" asp-for="@Model.Age" />
+                                            <span asp-validation-for="Age" class=" test-danger"></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-9">
+                                        <div class="form-floating" id="Government">
+                                            <label for="Government">Government</label>
+                                            <input type="text" class="form-control" id="Government" placeholder="Government" asp-for="@Model.Government"  />
+                                            <span asp-validation-for="Government" class=" test-danger"></span>
+                                        </div>
+                                    </div>
+
+                                    @if (Model.Type == "student")
+                                    {
+
+
+                                        <div class="col-md-9">
+                                            <div class="form-floating" id="EducationalLevel">
+                                                <label for="EducationalLevel">Educational Level</label>
+                                                <input type="text" class="form-control" id="EducationalLevel" placeholder="Educational Level" asp-for="@Model.EducationalLevel" />
+                                                <span asp-validation-for="EducationalLevel" class=" test-danger"></span>
+                                            </div>
+                                        </div>
+                                        @if (Model.EducationalLevel == "Undergraduate" || Model.EducationalLevel == "Postgraduate")
+                                        {
+                                            <div class="col-md-9">
+                                                <div class="form-floating" id="College">
+                                                    <label for="College">College</label>
+                                                    <input type="text" class="form-control" id="College" placeholder="College" asp-for="@Model.College"  />
+                                                    <span asp-validation-for="College" class=" test-danger"></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-9">
+                                                <div class="form-floating" id="Department">
+                                                    <label for="Department">Department</label>
+                                                    <input type="text" class="form-control" id="Department" placeholder="Department" asp-for="@Model.Department"  />
+                                                    <span asp-validation-for="Department" class=" test-danger"></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-9">
+                                                <div class="form-floating" id="Major">
+                                                    <label for="Major">Major</label>
+                                                    <input type="text" class="form-control" id="Major" placeholder="Major" asp-for="@Model.Major"  />
+                                                    <span asp-validation-for="Major" class=" test-danger"></span>
+                                                </div>
+                                            </div>
+                                        }
+
+                                    }
+                                    @if (Model.Type == "teacher")
+                                    {
+                                        <div class="col-md-9">
+                                            <div class="form-floating" id="SpecializationSubject">
+                                                <label for="SpecializationSubject">Specialization Subject</label>
+                                                <input type="text" class="form-control" id="SpecializationSubject" placeholder="SpecializationSubject" asp-for="@Model.SpecializationSubject"  />
+                                                <span asp-validation-for="SpecializationSubject" class=" test-danger"></span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="col-md-9">
+                                            <div class="form-floating" id="Workplace">
+                                                <label for="Workplace">Workplace</label>
+                                                <input type="text" class="form-control" id="Workplace" placeholder="Workplace" asp-for="@Model.Workplace"  />
+                                                <span asp-validation-for="Workplace" class=" test-danger"></span>
+                                            </div>
+                                        </div>
+
+                                    }
+
+                                }
+                                <input class="btn btn-primary py-3 px-5 mt-2" type="submit" style="margin-left:170px;margin-bottom:10px;" value="Update profile">
+
+                            </div> 
+                        </form>
+                        <a class="btn btn-primary py-3 px-5 mt-2" asp-controller="Profile" asp-action="ChangePassword" style="margin-left:170px;margin-bottom:10px;">Change Password</a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
