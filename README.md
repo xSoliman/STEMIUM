@@ -77,9 +77,6 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## Contact
-
-For any questions or inquiries, please contact [soliman.adel6515@gmail.com](mailto:soliman.adel6515@gmail.com).
 
 ---
 
